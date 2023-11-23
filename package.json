@@ -1,0 +1,19 @@
+{
+  "name": "api-real",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doorme777/API-REAL.git"
+  },
+  "author": "@doorme777",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doorme777/API-REAL/issues"
+  },
+  "homepage": "https://github.com/doorme777/API-REAL#readme"
+}
